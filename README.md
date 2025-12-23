@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Magdeline!
+# 👋 Hi, I'm Aneeq Ahmed!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
@@ -43,3 +43,4 @@
 <!-- END YOUTUBE-CARDS -->
 
 P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊
+
